@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -493,7 +493,7 @@
           "_anchor": "menu1-e"
         },
         {
-          "text": "<p>&lt;h3&gt; Drone Flight Simulator &lt;/h3&gt;</p><p>&lt;p&gt; </p><p>My name is (Your name here) the Drone Pilot for today</p><p>(Write something cool to your Drone Team here)</p><p>Here is where we will place the code so that the live stream video appears and then we will be ready to go!</p><p><br></p><p>&lt;iframe width=\"560\" height=\"315\" <b>src=\"https://www.youtube.com/embed/v-Qt15XH5nw\"</b> frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;</p><p> &lt;/p&gt;</p><p><br></p>",
+          "text": "<p>&lt;h3&gt; Drone Flight Simulator &lt;/h3&gt;</p><p>&lt;p&gt; </p><p>My name is (Your name here) the Drone Pilot for today</p><p>(Write something cool to your Drone Team here)</p><p>Here is where we will place the code so that the live stream video appears and then we will be ready to go!</p><p><br></p><p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/v-Qt15XH5nw\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;</p><p> &lt;/p&gt;</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -590,6 +590,32 @@
             "overlayOpacity": 0.8
           },
           "_anchor": "footer1-g"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/4Pi2VK84kkg",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-j"
         }
       ]
     }
